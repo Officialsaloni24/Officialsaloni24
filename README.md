@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Saloni Chavhan
 
-🎓 **B.Tech in Artificial Intelligence & Data Science (3rd Year)**  
+🎓 **B.Tech in Artificial Intelligence & Data Science (Final Year)**  
 📊 **Aspiring Data Analyst | Human-Centered Insights**  
 📍 India  
 
@@ -28,11 +28,12 @@ I enjoy exploring patterns, understanding human behavior through data, and creat
 
 ### Spreadsheets
 - Excel (Basics)
+- Google Sheets
 
 ### Other Tools
 - Jupyter Notebook  
 - Git & GitHub  
-
+- Power BI
 ---
 
 ## 🧠 What I Focus On
